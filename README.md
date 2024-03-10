@@ -14,7 +14,7 @@ Users should be able to:
 
 ## Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-PMJGtgvjmy)
+- [Solution URL](https://www.frontendmentor.io/solutions/testimonials-grid-section-RhdEf6rY9-)
 - [Live Site URL](https://meelix.github.io/frontendmentor-testimonial-grid)
 
 ## Built with
